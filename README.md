@@ -7,7 +7,9 @@ teoretické znalosti o digitálnej forenznej analýze a oboznámili sa so všetk
 
 Na analýzu obrazov operačnej pamäte budeme používať open-source softvér Volatility3. Otvorte si dokument s názvom 
 Volatility-setup a postupujte podľa návodu na inštaláciu a nastavenia Volatility3, aby vám Volatility správne 
-fungovalo a mohli ste bez komplikácií analyzovať pripravené obrazy.
+fungovalo a mohli ste bez komplikácií analyzovať pripravené obrazy. Pri testovaní funkčnosti Volatility3 budete potrebovať 
+predpripravený čistý obraz operačnej pamäte s Ubuntu. Stiahnite ho odtiaľto:
+https://mega.nz/file/dbEwlAST#lVMXtspZokdGJPJ_OFDqLZFkLlMtD64w7DQ8b8rTFPc
 
 Ak ste úspešne nainštalovali a nastavili Volatility3, čakajú vás pripravené praktické úlohy. Budete analyzovať tri 
 obrazy operačnej pamäte s Windows 10 a tri obrazy s Ubuntu 22.04. Poďme na to!
