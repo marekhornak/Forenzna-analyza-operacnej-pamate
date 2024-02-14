@@ -10,4 +10,4 @@ Volatility-setup a postupujte podľa návodu na inštaláciu a nastavenia Volati
 fungovalo a mohli ste bez komplikácií analyzovať pripravené obrazy.
 
 Ak ste úspešne nainštalovali a nastavili Volatility3, čakajú vás pripravené praktické úlohy. Budete analyzovať tri 
-obrazy operačnej pamäte s Windows 10 a tri obrazy s Ubuntu 22.04. 
+obrazy operačnej pamäte s Windows 10 a tri obrazy s Ubuntu 22.04. Poďme na to!
