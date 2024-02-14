@@ -3,7 +3,7 @@ vedomosti a zručnosti v tomto odbore. Učebný materiál obsahuje dokument, kto
 analýzy a pripraví ho na praktickú analýzu, ktorou ho prevedú praktické materiály. 
 
 Ako prvý si preštudujte teoretický materiál v hlavnom priečinku tohto repozitára, aby ste nadobudli potrebné 
-teoretické znalosti o digitálnej forenznej analýze a oboznámili sa so všetkými pojmami.
+teoretické znalosti o digitálnej forenznej analýze a oboznámili sa so všetkými pojmami. Materiál má názov Forenzná analýza - teória
 
 Na analýzu obrazov operačnej pamäte budeme používať open-source softvér Volatility3. Otvorte si dokument s názvom 
 Volatility-setup a postupujte podľa návodu na inštaláciu a nastavenia Volatility3, aby vám Volatility správne 
